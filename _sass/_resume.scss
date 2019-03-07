@@ -63,8 +63,8 @@
       margin: 0 0 .5rem;
 
       @include media_larger_than_mobile {
-        float: left;
-        margin: 0;
+        //float: left;
+        //margin: 0;
       }
     }
   }
@@ -137,12 +137,17 @@
 
   .resume-item { margin-bottom: 2rem; }
 
-  .resume-item-title {
+  .resume-item-title, 
+  .resume-item-title-cont {
     @include sans_bold;
     margin: 0 0 .75rem;
     font-size: 1.5rem;
     letter-spacing: -.05rem;
     line-height: 1;
+  }
+
+  .resume-item-title-cont {
+    margin: 0 100;
   }
 
   .resume-item-details {

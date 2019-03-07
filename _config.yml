@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Herrick Spencer's Resume"
+description: "An online version of Herrick Spencer's resume (Jekyll and GitHub Pages)"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Herrick Spencer"
+resume_title:                   "Senior Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "herrickspencer@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "631-327-8345"
+resume_contact_address:         "18920 NE 190th Ct, Woodinville, WA 98077"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Woodinville, WA • 631-327-8345 • herrickspencer@hotmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: true
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

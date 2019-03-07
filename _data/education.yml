@@ -1,13 +1,22 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science (Business Management and Economics), Information Systems
+  uni: (SUNY) State University of New York
+  location: Empire College
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - GPA of 3.77
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Diploma in Computer Programming
+  uni: Chubb Institute
+  location: Westbury, NY
+  year: 2000
+  awards:
+      - Honor Graduate
+      - GPA of 98.8%
+  #summary: You can choose to have either a single or multiple awards
+
+- degree: Architectural Degree Program
+  uni: Vermont College, Norwich University
+  location: Northfield VT
+  year: 1990-1994
+  #summary: You can choose to have either a single or multiple awards
